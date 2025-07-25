@@ -5,7 +5,7 @@ This is a simple web-based Tic Tac Toe game built using **HTML**, **CSS**, and *
 
 ## 🚀 Features
 
-- 2-player game with computer (X and O)
+- 2-player game (X and O)
 - Basic game logic for win/tie detection
 - Restart/reset functionality
 - Simple and clean UI with CSS
